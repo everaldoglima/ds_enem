@@ -1,7 +1,7 @@
+<h1 align="center">
 <p align="center">
   <strong align="center">2020 - 2a Imersão Dados</strong>
 </p>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/data-science-46-1170621.png" float="center"/>
 </h1> 
 
 ## Descrição:
