@@ -1,7 +1,3 @@
-<h1 align="center">
- <p align="center">
-  <strong align="center">Introdução à Ciência de Dados</strong>
-</p>
 <p align="center">
   <strong align="center">2020 - 2a Imersão Dados</strong>
 </p>
