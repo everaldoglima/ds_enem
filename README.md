@@ -11,7 +11,9 @@ Esse repositório contém as aulas/desafios propostos durante a segunda #Imersã
 - Base com os dados do [ENEM 2019](https://github.com/alura-cursos/imersao-dados-2-2020/blob/master/MICRODADOS_ENEM_2019_SAMPLE_43278.csv?raw=true).
 
 
-### Day 01:
+### Skills Tools:
   - Google Colab
   - Python
   - Pandas
+  - Scikit-learn
+
